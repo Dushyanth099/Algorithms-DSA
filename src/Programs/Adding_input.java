@@ -1,4 +1,4 @@
-package Programs;
+	package Programs;
 import java.util.Scanner;
 
 public class Adding_input {
